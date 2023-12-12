@@ -42,7 +42,7 @@ private:
 
 	std::shared_ptr<Entity> m_player_p;
 
-	void init();	// config kullanmadýðýmýz için farklý bir iþlem düþün
+	void init();	
 	void setPaused(bool paused);
 
 	void sMovement();
